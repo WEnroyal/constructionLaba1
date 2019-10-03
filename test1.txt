@@ -1,3 +1,4 @@
 Protsak Daneil 
 SOFT-317
 New Info for Branch A and B
+New changes for master
